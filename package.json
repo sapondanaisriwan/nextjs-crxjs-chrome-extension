@@ -17,7 +17,7 @@
     "@crxjs/vite-plugin": "^1.0.14",
     "@vitejs/plugin-react": "^1.3.0",
     "adm-zip": "^0.5.12",
-    "autoprefixer": "^10.4.`19",
+    "autoprefixer": "^10.4.19",
     "eslint": "^8.31.0",
     "eslint-config-next": "14.2.2",
     "fs.promises.exists": "^1.1.4",
