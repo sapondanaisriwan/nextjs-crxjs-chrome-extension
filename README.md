@@ -5,7 +5,7 @@ A chrome extension boilerplate using Next.js for building products and CRXJS for
 
 ## Why need to combine NextJS with CRXJS?
 
-- I'm experiencing [content script injected gets delayed](https://github.com/crxjs/chrome-extension-tools/issues/391) a lot when build the products.
+- I'm experiencing [content script injected gets delayed a lot](https://github.com/crxjs/chrome-extension-tools/issues/391) when build the products.
 
 so I decided to choose NextJS for building the product instead of CRXJS.
 
